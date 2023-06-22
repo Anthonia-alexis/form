@@ -1,0 +1,60 @@
+.theheading {
+    background-color: #004282;
+    text-align: center;
+    color: #fffafa;
+    font-family: "Times New Roman", serif;
+    font-size: 55px;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    padding: 2px;
+    border: 4px solid #c6d8eb;
+
+}
+
+#container {
+    background-color: #cadff4;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    padding-top: 0.03px;
+}
+
+.frame {
+    background-color: rgb(135, 134, 241);
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.ragnar-picture {
+    text-align: center;
+}
+
+.tabular {}
+
+table,
+th,
+td {
+    border: 4px solid rgb(100, 10, 141);
+    border-collapse: collapse;
+    padding: 5px 70px;
+    border-width: 1px;
+}
+
+.table {
+    text-align: center;
+    margin-left: 40px
+}
+
+a {
+    color: darkmagenta;
+}
+
+a:hover {
+    color: peru
+}
