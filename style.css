@@ -1,6 +1,10 @@
 body {
     background-color: powderblue;
 }
+* {
+    box-sizing: border-box;
+
+}
 
 h1 {
     color: black;
@@ -8,4 +12,31 @@ h1 {
 
 p {
     color: darkblue;
+}
+
+footer {
+    color: black;
+}
+
+.test {
+    display: block;
+}
+
+
+.details {
+    display: block;
+}
+
+details1 {
+    display: inline-block;
+}
+
+a {
+    color: slateblue;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+a:hover {
+    color: mediumblue
 }
